@@ -21,5 +21,7 @@ class Main {
         QuickSort.quickSort(NUMBERS); // type quickSort
         System.out.println("----------------------------------------------------------------");
         HeapSort.heapSort(NUMBERS);
+        System.out.println("----------------------------------------------------------------");
+        MergeSort.mergeSort(NUMBERS);
     }
 }
